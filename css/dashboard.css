@@ -1,0 +1,50 @@
+ body{
+            background-color:#f8f9fa;
+        }
+
+        .stats-card{
+            transition:0.3s;
+        }
+
+        .stats-card:hover{
+            transform:translateY(-5px);
+        }
+
+        footer{
+            background:#212529;
+            color:white;
+            text-align:center;
+            padding:15px;
+            margin-top:40px;
+           margin-top: 200px;
+        }
+                .hero{
+            background-color: #f8f9fa;
+            padding: 100px 0;
+            text-align: center;
+        }
+
+        .hero h1{
+            font-size: 3rem;
+            font-weight: bold;
+        }
+
+        .card img{
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .footer{
+            background-color: #212529;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .nav-link.active{
+            color: yellow !important;
+            font-weight: bold;
+        }
+
+    
