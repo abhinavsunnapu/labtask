@@ -1,0 +1,26 @@
+body{
+    background-color: #f8f9fa;
+}
+
+.profile-card{
+    max-width: 350px;
+    margin: 40px auto;
+}
+
+.profile-card img{
+    width: 100%;
+    height: auto;
+}
+
+.footer{
+    background-color: #212529;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.nav-link.active{
+    color: yellow !important;
+    font-weight: bold;
+}
